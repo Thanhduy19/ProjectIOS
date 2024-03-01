@@ -1,0 +1,6 @@
+framework module Pods_CoreData_App {
+  umbrella header "Pods-CoreData_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
